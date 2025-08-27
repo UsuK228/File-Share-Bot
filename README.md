@@ -46,10 +46,15 @@ Telegram Bot Token (получить у @BotFather)
 Структура проекта
 telegram-file-bot/
 ├── main.py            # Основной файл бота
+
 ├── requirements.txt   # Зависимости Python
+
 ├── files_data.json/   # База данных с id файлов
+
 ├── database/          # База данных пользователей
+
 ├── README.md          # Этот файл
+
 └── LICENSE            # Файл лицензии
 
 # Развертывание
