@@ -65,6 +65,7 @@ File-Share-Bot/
 `nohup python bot.py > bot.log 2>&1 &`
 ## Docker (опционально)
 `docker build -t telegram-file-bot .`
+
 `docker run -d --name file-bot telegram-file-bot`
 
 # Лицензия
