@@ -16,8 +16,8 @@ Telegram Bot Token (получить у @BotFather)
 
 # Установка
 Клонируйте репозиторий:
-`git clone https://github.com/your-username/telegram-file-bot.git`
-`cd telegram-file-bot`
+`git clone https://github.com/UsuK228/File-Share-Bot.git`
+`cd File-Share-Bot`
 
 # Установите зависимости:
 `pip install -r requirements.txt`
@@ -27,7 +27,7 @@ Telegram Bot Token (получить у @BotFather)
 `ADMINS = ["12345", "54321"]` - Ваш (Ваши) ID
 
 № Запустите бота:
-`python bot.py`
+`python main.py`
 
 # Основные команды
 `/start` - Начать работу с ботом и справка по командам
@@ -43,8 +43,9 @@ Telegram Bot Token (получить у @BotFather)
 # Загрузка файлов
 Отправьте боту любой файл и получите ID файла в боте.
 
-Структура проекта
-telegram-file-bot/
+#Структура проекта
+File-Share-Bot/
+
 ├── main.py            # Основной файл бота
 
 ├── requirements.txt   # Зависимости Python
